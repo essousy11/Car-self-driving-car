@@ -8,3 +8,8 @@ telles que la vidéosurveillance, la compression vidéo, l'imagerie médicale, l
 l'interaction homme-machine. Notre projet se concentre sur l'étude d'une méthode de détection
 des lignes de voie dans les voitures autonomes.
 
+Vous trouverez ici trois type de fichiers :
+  1 => Présentations PowerPoint pour notre sujet.
+  2 => Rapport de sujet détaillé contient toutes les notions utilisées avec leurs explications en détaille.
+  3 => Toutes les autres fichiers , c est pour le code.
+
